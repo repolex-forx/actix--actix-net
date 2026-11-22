@@ -1,0 +1,7 @@
+[2026-11-22T11:37:25Z] === AST ITERATION 1 START | repo=actix/actix-net sha=ebf8d7fa ===
+[2026-11-22T11:37:25Z] [iter=1] PHASE START: ast repo=actix/actix-net sha=ebf8d7fa
+[2026-11-22T11:37:25Z] [iter=1] Building AST aggregate chunks
+[2026-11-22T11:37:48Z] [iter=1] AST chunks built count=1 triples=284035
+[2026-11-22T11:37:48Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/ebf8d7fa3481d02503812fb1c4061ae987060e30/.complete
+[2026-11-22T11:37:48Z] [iter=1] PHASE END: ast elapsed_s=23 elapsed_min=0.4
+[2026-11-22T11:37:48Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
