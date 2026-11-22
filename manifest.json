@@ -294,7 +294,9 @@
           "githubUrl": "https://github.com/rust-cli/env_logger",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/ebf8d7fa3481d02503812fb1c4061ae987060e30/chunk-001.nq.gz",
+      "dep": "dep/ebf8d7fa3481d02503812fb1c4061ae987060e30.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
