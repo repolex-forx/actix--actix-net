@@ -1,0 +1,11 @@
+{
+  "org": "actix",
+  "repo": "actix-net",
+  "versions": [
+    {
+      "commit": "ebf8d7fa3481d02503812fb1c4061ae987060e30",
+      "tag": "v0.2.6",
+      "parsed_at": "2026-11-22T11:45:16.916357+00:00"
+    }
+  ]
+}
